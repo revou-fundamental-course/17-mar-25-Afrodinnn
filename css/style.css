@@ -1,0 +1,10 @@
+/* CSS EXTERNAL*/
+
+main-header>h1 {
+    background-color: cornsilk;
+    padding: 5px;
+}
+
+.nav-fitur-active {
+    background-color: blanchedalmond;
+}
