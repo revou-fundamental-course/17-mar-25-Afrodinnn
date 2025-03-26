@@ -1,5 +1,5 @@
 function hitung() {
-    let pilihan = document.getElementById("pilihan").value; // Ambil pilihan dari dropdown
+    let pilihan = document.getElementById("pilihan").value; 
     let hasil = 0;
 
     switch (pilihan) {
